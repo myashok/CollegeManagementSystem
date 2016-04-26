@@ -1,0 +1,37 @@
+{
+  "name": "feedBackBox",
+  "title": "jQuery feedBackBox",
+  "description": "A small feedback box realized as jQuery Plugin.",
+  "keywords": [
+    "jquery",
+    "feedback",
+	"box",
+	"form",
+    "plugins"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name" : "Willmer, Jens",
+    "email" : "info@jwillmer.de",
+    "url" : "http://jwillmer.de"
+  },
+  "maintainers": [
+  {
+    "name" : "Willmer, Jens",
+    "email" : "info@jwillmer.de",
+    "url" : "http://jwillmer.de"
+  }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/jwillmer/feedBackBox/issues",
+  "docs": "https://github.com/jwillmer/feedBackBox#readme",
+  "download": "https://github.com/jwillmer/feedBackBox/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.9"
+  }
+}
